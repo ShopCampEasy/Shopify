@@ -117,8 +117,8 @@
               "column_width_desktop": "lg:w-1\/3",
               "image_fit": "object-cover",
               "image_alignment": "object-center",
-              "link": "",
-              "cta_label": ""
+              "link": "shopify:\/\/products\/brynja-icelandic-wool-sweater-zip-and-hood",
+              "cta_label": "check out"
             }
           },
           "1634647025b57c5fe3-1": {
@@ -157,11 +157,27 @@
           "section_height": "h-48",
           "padding": ""
         }
+      },
+      "16346470486f7e5aae": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 5,
+          "divider_border": false
+        }
+      },
+      "1634647169ab8ed875": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 5,
+          "divider_border": false
+        }
       }
     },
     "content_for_index": [
       "1634646085e3684085",
+      "16346470486f7e5aae",
       "1634646317a0ea730f",
+      "1634647169ab8ed875",
       "1634647025b57c5fe3"
     ]
   }
