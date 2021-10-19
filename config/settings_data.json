@@ -1,5 +1,6 @@
 {
   "current": {
+    "button_primary": "#21b429",
     "sections": {
       "header": {
         "type": "header",
@@ -93,11 +94,75 @@
           "button_label": "",
           "button_link": ""
         }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "show_quantity_selector": true,
+          "show_variant_labels": true,
+          "column_width_mobile": "w-full",
+          "column_width_tablet": "md:w-1\/2",
+          "column_width_desktop": "lg:w-1\/2"
+        }
+      },
+      "1634647025b57c5fe3": {
+        "type": "gallery",
+        "blocks": {
+          "1634647025b57c5fe3-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Nordic_Jumpers.jpg",
+              "column_width_mobile": "w-full",
+              "column_width_tablet": "md:w-1\/3",
+              "column_width_desktop": "lg:w-1\/3",
+              "image_fit": "object-cover",
+              "image_alignment": "object-center",
+              "link": "",
+              "cta_label": ""
+            }
+          },
+          "1634647025b57c5fe3-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/campeasy_wear.jpg",
+              "column_width_mobile": "w-full",
+              "column_width_tablet": "md:w-1\/3",
+              "column_width_desktop": "lg:w-1\/3",
+              "image_fit": "object-cover",
+              "image_alignment": "object-center",
+              "link": "",
+              "cta_label": ""
+            }
+          },
+          "1634647025b57c5fe3-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/CampEasy_Hero_-_F-Roads_-_1920_Wide_-_16_9.jpg",
+              "column_width_mobile": "w-full",
+              "column_width_tablet": "md:w-1\/3",
+              "column_width_desktop": "lg:w-1\/3",
+              "image_fit": "object-cover",
+              "image_alignment": "object-center",
+              "link": "",
+              "cta_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "1634647025b57c5fe3-0",
+          "1634647025b57c5fe3-1",
+          "1634647025b57c5fe3-2"
+        ],
+        "settings": {
+          "section_height": "h-48",
+          "padding": ""
+        }
       }
     },
     "content_for_index": [
       "1634646085e3684085",
-      "1634646317a0ea730f"
+      "1634646317a0ea730f",
+      "1634647025b57c5fe3"
     ]
   }
 }
