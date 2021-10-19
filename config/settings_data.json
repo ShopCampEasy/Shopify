@@ -22,9 +22,9 @@
         "settings": {
           "header_size": "text-xl sm:text-2xl",
           "show_payment_icons": true,
-          "background_color": "#EDF2F7",
-          "header_color": "#1A202C",
-          "paragraph_color": "#4A5568"
+          "background_color": "#edf2f7",
+          "header_color": "#1a202c",
+          "paragraph_color": "#4a5568"
         }
       },
       "1634646085e3684085": {
@@ -67,7 +67,7 @@
           "1634646085e3684085-2"
         ],
         "settings": {
-          "title": "Collections",
+          "title": "",
           "title_size": "text-xl sm:text-2xl"
         }
       },
