@@ -56,6 +56,8 @@
     {{ content_for_header }}
 
     {% include 'social-meta-tags' %}
+
+	{{ shop.metafields.loox["global_html_head"] }}
 </head>
 
 {% assign text_font = "" %}
@@ -142,5 +144,7 @@
         }
       </script>
     {% endif %}
+
+	{{ shop.metafields.loox["global_html_body"] }}
 </body>
 </html>
