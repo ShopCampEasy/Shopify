@@ -200,6 +200,23 @@
           "text": "<p>Use this text to share information about your store.<\/p>",
           "text_size": "prose"
         }
+      },
+      "1634736233a7db28d8": {
+        "type": "image-with-text-overlay",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Hand_Picked_Camper_Tours.jpg",
+          "disable_lazyload": false,
+          "image_alignment": "object-right-bottom",
+          "image_fit": "object-cover",
+          "hero_layout": "full_width",
+          "section_height": "py-10 sm:py-16",
+          "title_size": "text-3xl leading-8 sm:text-4xl sm:leading-none",
+          "text_size": "text-base sm:text-lg",
+          "title": "Image with text overlay",
+          "text": "<p>TODO: (This text has to be changed) Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+          "button_label": "",
+          "button_link": ""
+        }
       }
     },
     "content_for_index": [
@@ -210,7 +227,8 @@
       "1634647169ab8ed875",
       "1634647025b57c5fe3",
       "16346474103732eac7",
-      "163464743581e2bc7a"
+      "163464743581e2bc7a",
+      "1634736233a7db28d8"
     ]
   }
 }
