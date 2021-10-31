@@ -1,6 +1,103 @@
 {
   "current": {
     "button_primary": "#21b429",
+    "social_facebook_link": "https:\/\/www.facebook.com\/campeasyiceland\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/campeasyiceland\/",
+    "social_twitter_link": "https:\/\/twitter.com\/CampEasyIceland",
+    "social_pinterest_link": "https:\/\/www.pinterest.com\/campeasyi\/",
+    "favicon": "shopify:\/\/shop_images\/CampeasyLogo_simplified_1.png",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/CampeasyLogo-txt_6e8cdfa1-8383-415f-a50a-9b552f1d8956.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#261f1f",
+    "checkout_button_color": "#33b721",
+    "checkout_error_color": "#ff6d6d",
+    "color_body_bg": "#fffffc",
+    "color_body_text": "#000000",
+    "color_borders": "#acacac",
+    "color_button": "#33b721",
+    "color_button_text": "#fffffc",
+    "color_sale_tag_text": "#ffffff",
+    "color_cart_dot": "#f27d0b",
+    "color_header": "#ffffff",
+    "color_header_text": "#1c1d1d",
+    "color_announcement_text": "#ffffff",
+    "color_footer": "#111111",
+    "color_footer_text": "#ffffff",
+    "color_drawer_background": "#ffffff",
+    "color_drawer_text": "#000000",
+    "color_drawer_border": "#e8e8e1",
+    "color_drawer_button": "#33b721",
+    "color_drawer_button_text": "#ffffff",
+    "color_modal_overlays": "#fffffc",
+    "color_image_text": "#ffffff",
+    "color_image_2": "#000000",
+    "color_image_2_opacity": 0,
+    "color_image_1": "#000000",
+    "color_image_1_opacity": 62,
+    "color_small_image_bg": "#ffffff",
+    "color_large_image_bg": "#111111",
+    "type_header_font_family": "itc_avant_garde_gothic_n7",
+    "type_header_spacing": "0",
+    "type_header_base_size": 35,
+    "type_header_line_height": 1.2,
+    "type_header_capitalize": false,
+    "type_header_accent_transform": true,
+    "type_base_font_family": "futura_n4",
+    "type_base_spacing": "25",
+    "type_base_size": 17,
+    "type_base_line_height": 1.6,
+    "type_base_accent_transform": true,
+    "type_navigation_size": 16,
+    "type_navigation_style": true,
+    "icon_weight": "3px",
+    "icon_linecaps": "miter",
+    "animate_page_transitions": true,
+    "animate_page_transition_style": "page-slow-fade",
+    "animate_sections": true,
+    "animate_sections_background_style": "zoom-fade",
+    "animate_sections_text_style": "rise-up",
+    "animate_images": true,
+    "animate_images_style": "zoom-fade",
+    "animate_buttons": true,
+    "animate_underlines": true,
+    "product_save_type": "percent",
+    "quick_shop_enable": true,
+    "quick_shop_text": "20% OFF",
+    "product_color_swatches": true,
+    "collection_color_swatches": true,
+    "product_contact": true,
+    "enable_product_reviews": false,
+    "cart_type": "drawer",
+    "cart_icon": "cart",
+    "cart_additional_buttons": false,
+    "cart_notes_enable": false,
+    "cart_terms_conditions_enable": false,
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "show_breadcrumbs": true,
+    "show_breadcrumbs_collection_link": true,
+    "text_direction": "ltr",
+    "checkout_call_to_action_color": "#a26b25",
+    "mlvedaACS_autoSwitch": false,
+    "mlvedaACS_isCustomized": true,
+    "mlvedaACS_borderLook": false,
+    "mlvedaACS_textColor": "inherit",
+    "mlvedaACS_flagStyle": "circle",
+    "mlvedaACS_isMessageDisplay": true,
+    "mlvedaACS_messageColor": "inherit",
+    "mlvedaACS_roundDecimal": false,
+    "color_input": "#ffffff",
+    "color_image_bg": "#000000",
     "sections": {
       "header": {
         "type": "header",
@@ -105,7 +202,6 @@
       },
       "1634647025b57c5fe3": {
         "type": "gallery",
-        "disabled": true,
         "blocks": {
           "1634647025b57c5fe3-0": {
             "type": "image",
@@ -244,10 +340,61 @@
           "position": "row",
           "size": "h-12 w-12"
         }
+      },
+      "1635679513f7a7c070": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Featured collection",
+          "collection": "icewear",
+          "product_limit": 8,
+          "per_row_sm": "grid-cols-2",
+          "per_row_md": "md:grid-cols-3",
+          "per_row_lg": "lg:grid-cols-4",
+          "hide_add_to_cart": false,
+          "show_view_all": false
+        }
+      },
+      "16356796520962159f": {
+        "type": "gallery",
+        "blocks": {
+          "16356796520962159f-1": {
+            "type": "image",
+            "settings": {
+              "column_width_mobile": "w-full",
+              "column_width_tablet": "md:w-1\/3",
+              "column_width_desktop": "lg:w-1\/3",
+              "image_fit": "object-cover",
+              "image_alignment": "object-center",
+              "link": "",
+              "cta_label": ""
+            }
+          },
+          "16356796520962159f-2": {
+            "type": "image",
+            "settings": {
+              "column_width_mobile": "w-full",
+              "column_width_tablet": "md:w-1\/3",
+              "column_width_desktop": "lg:w-1\/3",
+              "image_fit": "object-cover",
+              "image_alignment": "object-center",
+              "link": "",
+              "cta_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "16356796520962159f-1",
+          "16356796520962159f-2"
+        ],
+        "settings": {
+          "section_height": "h-48",
+          "padding": ""
+        }
       }
     },
     "content_for_index": [
       "1634647359b908e0e7",
+      "1635679513f7a7c070",
       "1634646085e3684085",
       "16346470486f7e5aae",
       "1634646317a0ea730f",
@@ -257,7 +404,8 @@
       "163464743581e2bc7a",
       "1634736233a7db28d8",
       "16347362416e833508",
-      "1634736482ef7f8866"
+      "1634736482ef7f8866",
+      "16356796520962159f"
     ]
   }
 }
