@@ -64,7 +64,8 @@
 window.mlvedaShopCurrency = "{{ shop.currency }}";
 window.shopCurrency = "{{ shop.currency }}";
 window.supported_currencies = "{{ settings.mlvedaACS_supportedCurrencies }}";
-</script></head>
+</script>{% capture cur %}{% include "booster-currency" %}{% endcapture %}{% unless cur contains "Liquid error" %}{{ cur }}{% endunless %}
+</head>
 
 {% assign text_font = "" %}
 {% unless settings.use_local_font %}
