@@ -200,56 +200,6 @@
           "column_width_desktop": "lg:w-1\/2"
         }
       },
-      "1634647025b57c5fe3": {
-        "type": "gallery",
-        "blocks": {
-          "1634647025b57c5fe3-0": {
-            "type": "image",
-            "settings": {
-              "column_width_mobile": "w-full",
-              "column_width_tablet": "md:w-1\/3",
-              "column_width_desktop": "lg:w-1\/3",
-              "image_fit": "object-fill",
-              "image_alignment": "object-center",
-              "link": "shopify:\/\/products\/brynja-icelandic-wool-sweater-zip-and-hood",
-              "cta_label": "check out"
-            }
-          },
-          "1634647025b57c5fe3-1": {
-            "type": "image",
-            "settings": {
-              "column_width_mobile": "w-full",
-              "column_width_tablet": "md:w-1\/3",
-              "column_width_desktop": "lg:w-1\/3",
-              "image_fit": "object-cover",
-              "image_alignment": "object-center",
-              "link": "",
-              "cta_label": ""
-            }
-          },
-          "1634647025b57c5fe3-2": {
-            "type": "image",
-            "settings": {
-              "column_width_mobile": "w-full",
-              "column_width_tablet": "md:w-1\/3",
-              "column_width_desktop": "lg:w-1\/3",
-              "image_fit": "object-cover",
-              "image_alignment": "object-center",
-              "link": "",
-              "cta_label": ""
-            }
-          }
-        },
-        "block_order": [
-          "1634647025b57c5fe3-0",
-          "1634647025b57c5fe3-1",
-          "1634647025b57c5fe3-2"
-        ],
-        "settings": {
-          "section_height": "h-48",
-          "padding": ""
-        }
-      },
       "16346470486f7e5aae": {
         "type": "divider",
         "settings": {
@@ -354,43 +304,6 @@
           "show_view_all": false
         }
       },
-      "16356796520962159f": {
-        "type": "gallery",
-        "blocks": {
-          "16356796520962159f-1": {
-            "type": "image",
-            "settings": {
-              "column_width_mobile": "w-full",
-              "column_width_tablet": "md:w-1\/3",
-              "column_width_desktop": "lg:w-1\/3",
-              "image_fit": "object-cover",
-              "image_alignment": "object-center",
-              "link": "",
-              "cta_label": ""
-            }
-          },
-          "16356796520962159f-2": {
-            "type": "image",
-            "settings": {
-              "column_width_mobile": "w-full",
-              "column_width_tablet": "md:w-1\/3",
-              "column_width_desktop": "lg:w-1\/3",
-              "image_fit": "object-cover",
-              "image_alignment": "object-center",
-              "link": "",
-              "cta_label": ""
-            }
-          }
-        },
-        "block_order": [
-          "16356796520962159f-1",
-          "16356796520962159f-2"
-        ],
-        "settings": {
-          "section_height": "h-48",
-          "padding": ""
-        }
-      },
       "163568218815abb2c9": {
         "type": "slideshow",
         "disabled": true,
@@ -443,13 +356,11 @@
       "16346470486f7e5aae",
       "1634646317a0ea730f",
       "1634647169ab8ed875",
-      "1634647025b57c5fe3",
       "16346474103732eac7",
       "163464743581e2bc7a",
       "1634736233a7db28d8",
       "16347362416e833508",
       "1634736482ef7f8866",
-      "16356796520962159f",
       "163568218815abb2c9"
     ]
   }
