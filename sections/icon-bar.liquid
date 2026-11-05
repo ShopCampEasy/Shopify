@@ -16,7 +16,7 @@
             {% endif %}
             
             {% if block.settings.icon != blank %}
-                {% include 'icons', name: block.settings.icon | downcase, size: section.settings.size %}
+                {% include 'icons', name: block.settings.icon, size: section.settings.size %}
             {% endif %}
 
             {% if block.settings.title != blank %}
@@ -142,3 +142,15 @@
 
 
 {% endschema %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% include 'icons', name: block.settings.icon | downcase, size: section.settings.size
+    %}"
+  to: "{% include 'icons', name: block.settings.icon, size: section.settings.size
+    %}"
+  position: 703..780
+{% endcomment %}
